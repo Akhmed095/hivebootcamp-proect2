@@ -1,0 +1,66 @@
+/* 1проект */
+.text{
+    color: aliceblue;
+    background-color: green;
+    font-size: 18px;
+}
+#button{
+    background-color: orange;
+    font-size: 18px;
+}
+.fon{
+    background-color: aliceblue;
+    margin-top: 400px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+ .span{
+    font-size: 32px;
+    font-weight: 450px;
+    margin-right: 100px;
+    margin-left: 250px;
+    margin-top: 250px;
+} 
+.silca{
+    color: aliceblue;
+    margin-left: 1200px;
+    margin-right: 300px;
+}
+/* 2 проект */
+.b-one{
+    background-color: rgb(212, 137, 137);
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#b-id-two{
+    color: blue;
+    margin-right: 5px;
+    font-size: 36px;
+}
+.b-tree{
+    background-color: rgb(212, 137, 137);
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 24px;
+}
+#b-id-four{
+    background-color: rgb(146, 243, 0);
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 24px;
+    font-weight: 450px;
+}
+.b-five{
+        background-color: rgb(212, 137, 137);
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+}
+.silca-b-c{
+    color: #fff;
+}
+.silca-b-a{
+    color: #fff;
+    margin-left: 600px;
+    margin-right: 360px;
+}

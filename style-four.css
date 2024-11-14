@@ -1,0 +1,46 @@
+/* 8 проект */
+.card{
+    background-color: #fff;
+    width: 650px;
+    height: 250px;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 350px;
+    padding: 1px;
+}
+h1{
+    background-color: rgb(198, 237, 255);
+    height: 50px;
+    margin: 8px;
+}
+.titles{
+    margin-left: 10px;
+}
+.content{
+    background-color: rgb(198, 237, 255);
+    height: 90px;
+    margin: 8px;
+    font-size: 27px;
+}
+.button-container{
+    background-color: rgb(198, 237, 255);
+    height: 80px;
+    margin: 8px;
+}
+.button{
+    margin-left: 285px;
+    font-size: 27px;
+}
+button{
+    width: 140px;
+    height: 35px;
+    margin-left: 250px;
+}
+.silca-g-h{
+    color: #000000;
+    margin-left: 600px;
+}
+.silca-h-a{
+    color: #000000;
+    margin-left: 340px;
+}
